@@ -1,7 +1,3 @@
-print("Game Rules: ")
-print("Press key 'W' and 'S' to move Padlle A up and down")
-print("Press key 'up arrow' and 'down arrow' to move paddle B up and down")
-
 import turtle
 
 wn = turtle.Screen()
